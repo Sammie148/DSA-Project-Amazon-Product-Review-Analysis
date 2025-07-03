@@ -31,4 +31,22 @@ Before visualizing and running my analysis, i did
 
 ### Exploratory Data Analysis
 Exploring the data helped us solve some issues which included:
- - 
+ - Products with highests average rating
+ - Avwrage discount rate
+ - Top Products
+ - Products with highest discount
+ - Gender Distribution
+ - Ratings based on Gender
+ - Gender Pay Gap
+
+### Data Analysis
+
+Some of the lines of code/tools used involved:
+- Count function in Excel
+- Summarizations by Average
+- If Excel Function
+- Used New Measures in Power Bi to calculate Percentage, Count function in Power Bi
+- Bar charts
+- Pie Chart
+- Table
+- Conditional Function in Power Bi
