@@ -9,22 +9,22 @@ It was a challanging and beautiful moment that i could not help but enjoy the jo
 This Project was aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies and customer engagement.
 
 ### Data Sources
-The data that was used here was given to us by the DSA community, it was gotten from our individual LMS program which was designed for personal interface for anyone who registered with the program
+The data that was used here was given to us by the DSA community, it was gotten from our individual LMS program which was designed for personal interface for anyone who registered with the program.
 
 ### Tools Used
 - Ms Excel
-   - Excel was used for data cleaning, data collection, and manipulation 
-   - Excel was also used to organise the data using pivot tables
-   - It was used to create a dashboard, and charts
+   - Excel was used for data cleaning, data collection, and manipulation. 
+   - Excel was also used to organise the data using pivot tables.
+   - It was used to create a dashboard, and charts.
     
 ### Data Cleaning and Preparation 
 Before analysing, i did:
-1. Data Loading and inspection
-2. Replacing wrongly placed variables
-3. Resolved missing variables
-4. Data Cleaning and Formatting
-5. Created several calculated columns which included price range bucket, total potential revenue
-6. recalculated the discount percentage column to revalidate it
+1. Data Loading and inspection.
+2. Replacing wrongly placed variables.
+3. Resolved missing variables.
+4. Data Cleaning and Formatting.
+5. Created several calculated columns which included price range bucket, total potential revenue.
+6. recalculated the discount percentage column to revalidate it.
 
 ### Exploratory Data Analysis
 Exploring the data helped us solve some issues which included:
