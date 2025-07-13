@@ -36,9 +36,9 @@ Exploring the data helped us solve some issues which included:
    
 ### Data Analysis
 Some of the lines of code/tools used involved:
-- Count function in Excel
+- COUNTIF function in Excel was used to count the number of products with discount of 50% and above
 - Summarizations by Average
-- Conditional function (Like the If function) was used to create a profe bucket range
+- Conditional function (Like the IF function) was used to create a price bucket range
 - Bar charts
 - Pie chart
 
